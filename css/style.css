@@ -6,6 +6,7 @@ body {
 }
 h1 {
     color: white;
+    align-items: center;
 }
 .container {
     align-items: center;
