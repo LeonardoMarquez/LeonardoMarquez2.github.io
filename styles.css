@@ -3,6 +3,7 @@ body {
     padding-left: 0%;
     margin: 0%;
     border: 0%;
+
 }
 h1 {
     color: white;
@@ -18,6 +19,12 @@ h1 {
     
 }
 .fontsize {
-    font-size: 900%;
-
+    font-size: 200%;
+}
+.white {
+    color: white;
+}
+.blue {
+background-color: rgb(64, 64, 235);
+color: rgb(64, 64, 235);
 }
